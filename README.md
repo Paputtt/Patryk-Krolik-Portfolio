@@ -23,8 +23,8 @@ I have completed and through self-learning. Also I am determined to prove the sk
 - qTest
 - Chrome DevTools
 
-  # My test plans examples
+# My test plans examples
 
-  # My test case examples
+# My test case examples
   
-  # My bug reports
+# My bug reports
