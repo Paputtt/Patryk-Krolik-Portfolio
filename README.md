@@ -23,6 +23,20 @@ I have completed and through self-learning. Also I am determined to prove the sk
 - qTest
 - Chrome DevTools
 
+# Groups for knowledge gathering
+
+* [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610/?ref=group_header)
+* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
+* [Grupa ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242/)
+* [Wydarzenia Sii Polska](https://www.facebook.com/groups/SiiPoland.events/?ref=group_header)
+
+# Blogs read
+
+* [testerzy.pl](http://testerzy.pl)
+* [testerka.pl](http://testerka.pl)
+* [toniebug.pl](https://www.toniebug.pl)
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
+
 # My test scenarios examples
 - [FaceBook login test scenarios](https://trello.com/c/kpjESCHF)
 
