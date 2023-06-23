@@ -9,7 +9,7 @@ I have completed and through self-learning. Also I am determined to prove the sk
 
 # Courses and Certificates
 - [ISTQB FL](https://drive.google.com/file/d/1qWQQE9YY_suNDZA-85LQENnoi4Hv4aaE/view?usp=sharing)
-- [Kurs To Twoje Kursy "Zostań Testerem Manualnym"](https://drive.google.com/file/d/1CM5jCWuj43tQC14V4Eqf1J-UTjwpdmGT/view?usp=sharing)
+- [Kurs Twoje Kursy "Zostań Testerem Manualnym"](https://drive.google.com/file/d/1CM5jCWuj43tQC14V4Eqf1J-UTjwpdmGT/view?usp=sharing)
 - [The Complete 2023 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/)
 - [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
 - [Kurs SQL](https://www.udemy.com/course/learn-mysql-for-beginners/)
