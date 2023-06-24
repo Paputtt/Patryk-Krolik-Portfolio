@@ -25,17 +25,17 @@ I have completed and through self-learning. Also I am determined to prove the sk
 
 # Groups for knowledge gathering
 
-* [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610/?ref=group_header)
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
+* [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610/?ref=group_header)
 * [Grupa ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242/)
 * [Wydarzenia Sii Polska](https://www.facebook.com/groups/SiiPoland.events/?ref=group_header)
 
 # Blogs
 
 * [testerzy.pl](http://testerzy.pl)
+* [TesteremByć](https://testerembyc.pl/)
 * [testerka.pl](http://testerka.pl)
 * [toniebug.pl](https://www.toniebug.pl)
-* [TesteremByć](https://testerembyc.pl/)
 
 # My bug reports
 - [Bug-Description of product in another language](https://drive.google.com/file/d/1zZ8sNyeZ-eDABq3MS_69D1kam3L2_mFB/view?usp=sharing)
