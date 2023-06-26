@@ -30,12 +30,14 @@ I have completed and through self-learning. Also I am determined to prove the sk
 * [Grupa ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242/)
 * [Wydarzenia Sii Polska](https://www.facebook.com/groups/SiiPoland.events/?ref=group_header)
 
-# Blogs
+# Blogs and YouTube channels
 
 * [testerzy.pl](http://testerzy.pl)
 * [TesteremByć](https://testerembyc.pl/)
 * [testerka.pl](http://testerka.pl)
 * [toniebug.pl](https://www.toniebug.pl)
+* [AkademiaQA](https://www.youtube.com/@akademiaqa)
+* [Technika Programowania](https://www.youtube.com/@TechnikaProgramowania)
 
 # My bug reports
 - [Bug-Description of product in another language](https://drive.google.com/file/d/1zZ8sNyeZ-eDABq3MS_69D1kam3L2_mFB/view?usp=sharing)
