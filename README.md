@@ -45,8 +45,10 @@ I have completed and through self-learning. Also I am determined to prove the sk
 - [Błąd-Niedziałająca wyszukiwarka na stronie RealMadrid.pl](https://drive.google.com/file/d/1u00AonPdTfjq8gSX0p0l1NnT64Eo2Y3w/view?usp=sharing)
 
 
+# My test case examples
+- [Diamante-wear.com Test Case](https://docs.google.com/spreadsheets/d/175HFnOQSHxk7ivAjmMBkFwUMVncC0h4uydUBGULE_Ps/edit?usp=sharing)
+
+
 # My test scenarios examples
 - [FaceBook login test scenarios](https://trello.com/c/kpjESCHF)
 
-# My test case examples
-  
