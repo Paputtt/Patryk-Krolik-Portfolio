@@ -23,6 +23,19 @@ I have completed and through self-learning. Also I am determined to prove the sk
 - qTest
 - Chrome DevTools
 
+# My bug reports
+- [Bug-Description of product in another language](https://drive.google.com/file/d/1zZ8sNyeZ-eDABq3MS_69D1kam3L2_mFB/view?usp=sharing)
+- [Bug-Incomplete description 'AboutUs'](https://drive.google.com/file/d/1R_FpSZFg_13okWraR-XOXjBjaDWwpJQv/view?usp=sharing)
+- [Błąd-Niedziałająca wyszukiwarka na stronie RealMadrid.pl](https://drive.google.com/file/d/1u00AonPdTfjq8gSX0p0l1NnT64Eo2Y3w/view?usp=sharing)
+
+
+# My test case examples
+- [Diamante-wear.com Test Cases](https://docs.google.com/spreadsheets/d/175HFnOQSHxk7ivAjmMBkFwUMVncC0h4uydUBGULE_Ps/edit?usp=sharing)
+
+
+# My test scenarios examples
+- [FaceBook login test scenarios](https://trello.com/c/kpjESCHF)
+
 # Groups for knowledge gathering
 
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
@@ -39,16 +52,5 @@ I have completed and through self-learning. Also I am determined to prove the sk
 * [AkademiaQA](https://www.youtube.com/@akademiaqa)
 * [Technika Programowania](https://www.youtube.com/@TechnikaProgramowania)
 
-# My bug reports
-- [Bug-Description of product in another language](https://drive.google.com/file/d/1zZ8sNyeZ-eDABq3MS_69D1kam3L2_mFB/view?usp=sharing)
-- [Bug-Incomplete description 'AboutUs'](https://drive.google.com/file/d/1R_FpSZFg_13okWraR-XOXjBjaDWwpJQv/view?usp=sharing)
-- [Błąd-Niedziałająca wyszukiwarka na stronie RealMadrid.pl](https://drive.google.com/file/d/1u00AonPdTfjq8gSX0p0l1NnT64Eo2Y3w/view?usp=sharing)
-
-
-# My test case examples
-- [Diamante-wear.com Test Case](https://docs.google.com/spreadsheets/d/175HFnOQSHxk7ivAjmMBkFwUMVncC0h4uydUBGULE_Ps/edit?usp=sharing)
-
-
-# My test scenarios examples
-- [FaceBook login test scenarios](https://trello.com/c/kpjESCHF)
+  
 
