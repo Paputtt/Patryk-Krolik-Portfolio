@@ -1,9 +1,13 @@
 # Patryk-Krolik-Portfolio
 
 # About me
-Due to life changes I became interested in sofware testing. I have completed professional training and practical training in the field of Manual Testing. Also I passed exam of certificate ISTQB FL.
-In this portfolio I would like to share my testing knowledge and exhibit my technical skills, which I gained during the testing course
-I have completed and through self-learning. Also I am determined to prove the skills I have already acquired and keep developing in this field.  I intend to gain professional experience in this direction and find a junior position in testing.
+As a result of significant life changes, I have developed a profound interest in software testing. I have completed comprehensive professional training and practical coursework in the field of Manual Testing. Furthermore, I successfully passed the ISTQB FL certification exam, showcasing my dedication to honing my testing skills.
+
+Through a combination of formal training and independent study, I have acquired extensive knowledge in testing methodologies and techniques. I am eager to share this expertise and exhibit my technical proficiency in this portfolio. My ultimate goal is to secure a junior position in testing, where I can apply and further enhance the skills I have already attained while continuously growing in this field.
+
+I am deeply committed to gaining practical experience in software testing and am enthusiastic about the opportunity to contribute to the success of testing projects. With a strong foundation in manual testing, I possess the ability to meticulously analyze software functionalities, identify defects, and effectively communicate findings to stakeholders. I am well-versed in designing and executing test cases, as well as documenting and reporting issues with clarity and precision.
+
+I am confident that my knowledge, practical skills, and unwavering dedication make me a strong candidate for a junior testing position. I am eager to contribute to a team-oriented environment that fosters growth and continuous learning. Thank you for considering my application, and I look forward to the opportunity to discuss how I can contribute to your organization's testing initiatives.
 
 
 # Courses and Certificates
