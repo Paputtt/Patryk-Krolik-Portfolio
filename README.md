@@ -43,8 +43,8 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 - [FaceBook login test scenarios](https://trello.com/c/kpjESCHF)
 
 # My REST API testing  
-- [Example of automatic tests Postman](https://drive.google.com/file/d/1mg5AvwEHYgsDvGI9F4Mt9fTdhrt18Y8g/view?usp=sharing)
-- [Postman automated tests 200 results](https://drive.google.com/file/d/1lJpGzf8ps8GEO0afOaIT_b9oKJkg4wYi/view?usp=sharing)
+- [Example of automatic test Postman](https://drive.google.com/file/d/1mg5AvwEHYgsDvGI9F4Mt9fTdhrt18Y8g/view?usp=sharing)
+- [Postman automatic test 200 results](https://drive.google.com/file/d/1lJpGzf8ps8GEO0afOaIT_b9oKJkg4wYi/view?usp=sharing)
 
 # Groups for knowledge gathering
 
