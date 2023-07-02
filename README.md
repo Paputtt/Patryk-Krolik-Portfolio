@@ -42,6 +42,9 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 # My test scenarios examples
 - [FaceBook login test scenarios](https://trello.com/c/kpjESCHF)
 
+# My REST API testing  
+- [Example of automatic tests Postman](https://drive.google.com/file/d/1mg5AvwEHYgsDvGI9F4Mt9fTdhrt18Y8g/view?usp=sharing)
+
 # Groups for knowledge gathering
 
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
