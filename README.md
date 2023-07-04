@@ -18,11 +18,12 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 - [Kurs SQL](https://www.udemy.com/course/learn-mysql-for-beginners/)
 
 # Tools
-- JIRA
-- MySQL Workbench
+
 - Postman
 - Git
+- MySQL Workbench
 - Trello
+- JIRA
 - qTest
 - DevTools
 - JMeter
