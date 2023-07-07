@@ -28,8 +28,9 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 - DevTools
 - JMeter
 - Katalon
-- Basic od Playwright
-- Basic of Java
+- Selenium
+- Playwright
+- Java
 
 # My bug reports
 - [Bug-Description of product in another language](https://drive.google.com/file/d/1zZ8sNyeZ-eDABq3MS_69D1kam3L2_mFB/view?usp=sharing)
