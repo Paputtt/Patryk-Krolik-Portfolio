@@ -56,7 +56,7 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 * [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610/?ref=group_header)
 * [Testowanie oprogramowania - Materiały | Porady](https://www.facebook.com/groups/testowanie/)
 * [Grupa ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242/)
-* [Wydarzenia Sii Polska](https://www.facebook.com/groups/SiiPoland.events/?ref=group_header)
+
 
 # Blogs and YouTube channels
 
