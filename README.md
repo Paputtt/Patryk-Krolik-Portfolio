@@ -61,12 +61,9 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 # Blogs and YouTube channels
 
 * [testerzy.pl](http://testerzy.pl)
-* [TesteremByć](https://testerembyc.pl/)
-* [testerka.pl](http://testerka.pl)
-* [toniebug.pl](https://www.toniebug.pl)
 * [AkademiaQA](https://www.youtube.com/@akademiaqa)
 * [Guru99](https://www.youtube.com/@guru99com)
 * [Technika Programowania](https://www.youtube.com/@TechnikaProgramowania)
-
+* [TesteremByć](https://testerembyc.pl/)
   
 
