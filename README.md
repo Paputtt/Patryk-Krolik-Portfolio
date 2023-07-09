@@ -24,6 +24,7 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 - MySQL Workbench
 - Trello
 - JIRA
+- Confluence
 - qTest
 - DevTools
 - JMeter
