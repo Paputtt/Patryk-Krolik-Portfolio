@@ -17,6 +17,18 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 - [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
 - [Kurs SQL](https://www.udemy.com/course/learn-mysql-for-beginners/)
 
+
+# Skills
+- Writing test scenarios
+- Creating test cases
+- Reporting bugs
+- Mobile testing
+- REST API testing
+- Databases 
+- Performance testing using JMeter
+- Test automation using Selenium and Playwroght 
+
+
 # Tools
 
 - Postman
