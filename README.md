@@ -23,6 +23,7 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 - Creating test cases
 - Reporting bugs
 - Mobile testing
+- Explorary testing
 - REST API testing
 - Databases 
 - Performance testing using JMeter
