@@ -77,5 +77,6 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 * [Guru99](https://www.youtube.com/@guru99com)
 * [Technika Programowania](https://www.youtube.com/@TechnikaProgramowania)
 * [TesteremByć](https://testerembyc.pl/)
+* [Quality Island](https://www.youtube.com/@quality_island)
   
 
