@@ -42,10 +42,11 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 - DevTools
 - JMeter
 - Katalon
-- Selenium (basic)
-- Playwright (basic)
+- Selenium (basics)
+- Playwright (basics)
 
 # My bug reports
+- [No Photo of the product](https://drive.google.com/file/d/1E2uRweg7QlRSck9NmhNuhMRszzkRt1Pe/view?usp=sharing)
 - [Bug-Description of product in another language](https://drive.google.com/file/d/1zZ8sNyeZ-eDABq3MS_69D1kam3L2_mFB/view?usp=sharing)
 - [Bug-Incomplete description 'AboutUs'](https://drive.google.com/file/d/1R_FpSZFg_13okWraR-XOXjBjaDWwpJQv/view?usp=sharing)
 - [Błąd-Niedziałająca wyszukiwarka na stronie RealMadrid.pl](https://drive.google.com/file/d/1u00AonPdTfjq8gSX0p0l1NnT64Eo2Y3w/view?usp=sharing)
