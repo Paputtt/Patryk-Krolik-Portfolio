@@ -16,6 +16,7 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 - [The Complete 2023 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/)
 - [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
 - [Kurs SQL](https://www.udemy.com/course/learn-mysql-for-beginners/)
+- [Kurs GIT od podstaw dla każdego](https://www.udemy.com/course/git-od-podstaw-dla-kazdego/)
 
 
 # Skills
