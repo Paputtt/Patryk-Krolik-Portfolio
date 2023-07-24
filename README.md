@@ -39,6 +39,7 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 - Trello
 - JIRA
 - Confluence
+- Zephyr Scale
 - qTest
 - DevTools
 - JMeter
