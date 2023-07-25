@@ -48,6 +48,7 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 - Playwright (basics)
 
 # My bug reports
+- [The Filtering of products on the site does not work properly](https://drive.google.com/file/d/1gZZF1VT_KUI5O_LovQkmHNcTvhWfLa2v/view?usp=sharing)
 - [No Photo of the product](https://drive.google.com/file/d/1E2uRweg7QlRSck9NmhNuhMRszzkRt1Pe/view?usp=sharing)
 - [Description of product in another language](https://drive.google.com/file/d/1zZ8sNyeZ-eDABq3MS_69D1kam3L2_mFB/view?usp=sharing)
 - [Incomplete description 'AboutUs'](https://drive.google.com/file/d/1R_FpSZFg_13okWraR-XOXjBjaDWwpJQv/view?usp=sharing)
