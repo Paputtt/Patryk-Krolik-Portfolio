@@ -81,6 +81,7 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 * [AkademiaQA](https://www.youtube.com/@akademiaqa)
 * [Guru99](https://www.youtube.com/@guru99com)
 * [Technika Programowania](https://www.youtube.com/@TechnikaProgramowania)
+* [JakTestowac](https://www.youtube.com/@jaktestowac/)
 * [TesteremByć](https://testerembyc.pl/)
 * [Quality Island](https://www.youtube.com/@quality_island)
   
