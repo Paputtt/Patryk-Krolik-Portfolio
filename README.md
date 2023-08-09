@@ -85,5 +85,6 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 * [TesteremByć](https://testerembyc.pl/)
 * [TestArmy.com](https://testarmy.com/pl/blog)
 * [Quality Island](https://www.youtube.com/@quality_island)
+* [Testuj.pl](https://testuj.pl/blog/)
   
 
