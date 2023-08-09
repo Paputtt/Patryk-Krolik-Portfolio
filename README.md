@@ -17,6 +17,7 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 - [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
 - [Kurs SQL](https://www.udemy.com/course/learn-mysql-for-beginners/)
 - [Kurs GIT od podstaw dla każdego](https://www.udemy.com/course/git-od-podstaw-dla-kazdego/)
+- [Kurs Automated Software Testing with Playwright](https://www.udemy.com/course/automated-software-testing-with-playwright/)
 
 
 # Skills
