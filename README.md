@@ -83,6 +83,7 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 * [Technika Programowania](https://www.youtube.com/@TechnikaProgramowania)
 * [JakTestowac](https://www.youtube.com/@jaktestowac/)
 * [TesteremByć](https://testerembyc.pl/)
+* [TestArmy.com](https://testarmy.com/pl/blog)
 * [Quality Island](https://www.youtube.com/@quality_island)
   
 
