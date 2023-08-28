@@ -48,7 +48,7 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 - JMeter
 - Katalon
 - Selenium (basics)
-- Playwright (basics)
+- Playwright 
 
 # My bug reports
 - [The Filtering of products on the website does not work properly](https://drive.google.com/file/d/1gZZF1VT_KUI5O_LovQkmHNcTvhWfLa2v/view?usp=sharing)
