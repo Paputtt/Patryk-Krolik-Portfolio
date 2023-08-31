@@ -30,7 +30,7 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 - REST API testing
 - Databases 
 - Performance testing using JMeter
-- Test automation using Selenium and Playwright (basics)
+- Test automation using Selenium and Playwright
 
 
 # Tools
