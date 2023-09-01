@@ -28,7 +28,6 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 - Mobile testing
 - Explorary testing
 - REST API testing
-- Databases 
 - Performance testing using JMeter
 - Test automation using Selenium and Playwright
 
