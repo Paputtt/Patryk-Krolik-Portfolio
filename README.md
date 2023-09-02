@@ -46,7 +46,6 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 - DevTools
 - JMeter
 - Katalon
-- Selenium 
 - Playwright 
 
 # My bug reports
