@@ -43,6 +43,7 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 - Zephyr Scale
 - qTest
 - TestRail
+- Xray
 - DevTools
 - JMeter
 - Katalon
