@@ -29,7 +29,7 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 - Explorary testing
 - REST API testing
 - Performance testing using JMeter
-- Test automation using Selenium and Playwright
+- Test automation using Playwright
 
 
 # Tools
