@@ -15,10 +15,11 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 - [Kurs Twoje Kursy "Zostań Testerem Manualnym"](https://drive.google.com/file/d/1CM5jCWuj43tQC14V4Eqf1J-UTjwpdmGT/view?usp=sharing)
 - [The Complete 2023 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/)
 - [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
+- [Praktyczne wprowadzenie do testów automatycznych z Playwright](https://www.youtube.com/playlist?list=PLfKhn9AcZ-cD2TCB__K7NP5XARaCzZYn7)
 - [Kurs SQL](https://www.udemy.com/course/learn-mysql-for-beginners/)
 - [Kurs GIT od podstaw dla każdego](https://www.udemy.com/course/git-od-podstaw-dla-kazdego/)
 - [Kurs Automated Software Testing with Playwright](https://www.udemy.com/course/automated-software-testing-with-playwright/)
-- [Praktyczne wprowadzenie do testów automatycznych z Playwright](https://www.youtube.com/playlist?list=PLfKhn9AcZ-cD2TCB__K7NP5XARaCzZYn7)
+
 
 
 # Skills
