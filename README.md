@@ -26,8 +26,8 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 - Writing test scenarios
 - Creating test cases
 - Reporting bugs
-- Mobile testing
 - Explorary testing
+- Mobile testing
 - REST API testing
 - Performance testing using JMeter
 - Test automation using Playwright
