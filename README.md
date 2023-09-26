@@ -47,7 +47,6 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 - Xray
 - DevTools
 - JMeter
-- Katalon
 - Playwright 
 
 # My bug reports examples
