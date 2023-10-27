@@ -89,4 +89,4 @@ I am confident that my knowledge, practical skills, and unwavering dedication ma
 * [Testuj.pl](https://testuj.pl/blog/)
 * [WyszkoleWas.com](https://www.wyszkolewas.com.pl/blog/)
 
-  __________________________________________________________________________________________
+  _____________________________________________________________________________________
